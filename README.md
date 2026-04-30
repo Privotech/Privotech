@@ -1,29 +1,29 @@
-# 👋 Hi, I’m @Privotech  
+#  Hi, I’m @Privotech  
 
-💡 Passionate about building innovative tech solutions and learning new programming skills every day.  
+ Passionate about building innovative tech solutions and learning new programming skills every day.  
 
-## 👀 Interests  
+## Interests  
 - Web & Mobile Development  
 - Backend APIs  
 - Problem-solving through code  
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - **JavaScript**  
 - React.js  
 - Node.js  
 
-## 💞️ Open to Collaborate On  
+## Open to Collaborate On  
 - React.js, Node.js, and JavaScript projects  
 - Any exciting tech or open-source initiative  
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 - **WhatsApp:** [09044058809] (tel:09044058809)  
 - **Mobile:** [07084689042] (tel:07084689042)  
 
-## 😄 Pronouns  
+## Pronouns  
 - He/Him  
 
-## ⚡ Fun Fact  
+## Fun Fact  
 I can spend hours coding without realizing time is flying!  
 
 ---
